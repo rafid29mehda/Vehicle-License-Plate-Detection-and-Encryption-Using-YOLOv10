@@ -1,0 +1,1 @@
+# Vehicle-License-Plate-Detection-and-Encryption-Using-YOLOv10
